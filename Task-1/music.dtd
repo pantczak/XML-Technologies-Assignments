@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8"?>
+        <!ELEMENT albums (authors,bandlist,album+)>
+        <!ELEMENT authors (author)+>
+        <!ELEMENT bandlist (bandinfo*)>
+        <!ELEMENT bandinfo (name)>
+        <!ELEMENT name (#PCDATA)>
+        <!ATTLIST bandinfo band_id ID #REQUIRED>
+        <!ELEMENT album (info,pic1,songs)>
+        <!ATTLIST album genre_type NMTOKEN #REQUIRED>
+        <!ATTLIST album type (Vinyl|CD) #IMPLIED>
+        <!ATTLIST album id NMTOKEN #REQUIRED>
+        <!ELEMENT info (album_title,band,studio,release_year,number_of_songs,total_length,number_of_disks,rating,price)>
+        <!ELEMENT album_title (#PCDATA)>
+        <!ELEMENT band (#PCDATA)>
+        <!ATTLIST band band_id IDREF #IMPLIED>
+        <!ELEMENT studio (#PCDATA)>
+        <!ELEMENT release_year (#PCDATA)>
+        <!ELEMENT number_of_songs (#PCDATA)>
+        <!ELEMENT total_length (#PCDATA)>
+        <!ELEMENT number_of_disks (#PCDATA)>
+        <!ELEMENT rating (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT pic1 (#PCDATA)>
+        <!ATTLIST pic1 id NMTOKEN #IMPLIED>
+        <!ELEMENT songs (song+)>
+        <!ELEMENT song (title,song_length)>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT song_length (#PCDATA)>
+        <!ELEMENT author (authorName,authorSurname,authorindex)>
+        <!ATTLIST author id NMTOKEN #REQUIRED>
+        <!ELEMENT authorName (#PCDATA)>
+        <!ELEMENT authorSurname (#PCDATA)>
+        <!ELEMENT authorindex (#PCDATA)>

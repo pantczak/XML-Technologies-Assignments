@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Płytoteka>
+   <Album Nazwa="Goodbye Yellow Brick Road"
+          Artysta="Elton John"
+          Gatunek="Pop"
+          Data_premiery_albumu="1973-10-05"
+          Ilość_piosenek_w_albumie="1"
+          Długość_albummu="01:16:20"
+          Wydawca="MCA Records"
+          Ocena="9.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Funeral for a friend</Nazwa>
+            <Długość>1:09</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Candle in the Wind</Nazwa>
+            <Długość>3:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Bennie and the Jets</Nazwa>
+            <Długość>5:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Goodbye Yellow Brick Road</Nazwa>
+            <Długość>5:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>This Song Has No Title</Nazwa>
+            <Długość>2:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Grey Seal</Nazwa>
+            <Długość>4:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Jamaica Jerk-Off</Nazwa>
+            <Długość>3:39</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I've Seen Movie Too</Nazwa>
+            <Długość>5:59</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sweet Painted Lady</Nazwa>
+            <Długość>3:54</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Balad of Dany Bailey</Nazwa>
+            <Długość>4:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dirty Little Girl</Nazwa>
+            <Długość>5:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>All the Girls Love Alice</Nazwa>
+            <Długość>5:09</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Your Sister Can't Twist (But She Can Rock'n Roll)</Nazwa>
+            <Długość>2:42</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Saturday Night Alright For Fighting</Nazwa>
+            <Długość>4:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Roy Rogers</Nazwa>
+            <Długość>4:07</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Social Disease</Nazwa>
+            <Długość>3:42</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Harmony</Nazwa>
+            <Długość>2:46</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Discovery"
+          Artysta="Daft Punk"
+          Gatunek="Muzyka Elektroniczna"
+          Data_premiery_albumu="2001-03-03"
+          Ilość_piosenek_w_albumie="14"
+          Długość_albummu="01:00:54"
+          Wydawca="Virgin Records"
+          Ocena="9.6/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>One More Time</Nazwa>
+            <Długość>5:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Areodynamic</Nazwa>
+            <Długość>3:27</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Digital Love</Nazwa>
+            <Długość>4:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Harder,Better,Faster,Stronger</Nazwa>
+            <Długość>3:45</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Crescendolls</Nazwa>
+            <Długość>3:32</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Nightvision</Nazwa>
+            <Długość>1:44</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Superheroes</Nazwa>
+            <Długość>3:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>High Life</Nazwa>
+            <Długość>3:22</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Voyager</Nazwa>
+            <Długość>3:47</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Veridis Quo</Nazwa>
+            <Długość>5:44</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Short Circuit</Nazwa>
+            <Długość>3:26</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Face to Face</Nazwa>
+            <Długość>3:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Too Long</Nazwa>
+            <Długość>9:00</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Thriller"
+          Artysta="Michael Jackson"
+          Gatunek="Pop"
+          Data_premiery_albumu="1982-11-30"
+          Ilość_piosenek_w_albumie="9"
+          Długość_albummu="00:42:19"
+          Wydawca="Quincy Jones"
+          Ocena="9.3/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Wanna Be Startin' Somethin</Nazwa>
+            <Długość>6:02</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Baby Be Mine</Nazwa>
+            <Długość>4:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Girl Is Mine</Nazwa>
+            <Długość>3:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Thriller</Nazwa>
+            <Długość>5:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Beat It</Nazwa>
+            <Długość>4:18</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Billie Jean</Nazwa>
+            <Długość>4:54</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Human Nature</Nazwa>
+            <Długość>4:07</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>P.Y.T</Nazwa>
+            <Długość>3:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Lady In My Life</Nazwa>
+            <Długość>4:59</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Off the Wall"
+          Artysta="Michael Jackson"
+          Gatunek="Pop"
+          Data_premiery_albumu="1979-08-10"
+          Ilość_piosenek_w_albumie="10"
+          Długość_albummu="00:42:28"
+          Wydawca="Epic Records"
+          Ocena="9.2/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Don't Stop 'Til You Get Enough</Nazwa>
+            <Długość>6:02</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rock With You</Nazwa>
+            <Długość>3:08</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Working Day and Night</Nazwa>
+            <Długość>5:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Get on the Floor</Nazwa>
+            <Długość>4:42</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Off the Wall</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Girlfriend</Nazwa>
+            <Długość>3:08</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>She's Out of My Life</Nazwa>
+            <Długość>3:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I Can't Help It</Nazwa>
+            <Długość>4:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>It's Falling in Love</Nazwa>
+            <Długość>3:52</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Burn This Disco Out</Nazwa>
+            <Długość>3:39</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="El Camino"
+          Artysta="The Black Keys"
+          Gatunek="Rock"
+          Data_premiery_albumu="2011-12-02"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:37:42"
+          Wydawca="Nonesuch Records"
+          Ocena="8.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Lonley Boy</Nazwa>
+            <Długość>3:13</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dead and Gone</Nazwa>
+            <Długość>3:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Cold on the Ceiling</Nazwa>
+            <Długość>2:44</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Little black Submarines</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Money Maker</Nazwa>
+            <Długość>2:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Run Right Back</Nazwa>
+            <Długość>3:17</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sister</Nazwa>
+            <Długość>3:25</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Hello of a Season</Nazwa>
+            <Długość>3:45</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Stop Stop</Nazwa>
+            <Długość>3:30</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Nova Baby</Nazwa>
+            <Długość>3:27</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Mind Eraser</Nazwa>
+            <Długość>3:15</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Birth of the Cool"
+          Artysta="Miles Davis"
+          Gatunek="Jazz"
+          Data_premiery_albumu="1957-02-01"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:35:29"
+          Wydawca="Capitol"
+          Ocena="8.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Move</Nazwa>
+            <Długość>2:29</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Jeru</Nazwa>
+            <Długość>3:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Moon Dreams</Nazwa>
+            <Długość>3:13</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Venus De Milo</Nazwa>
+            <Długość>3:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Budo</Nazwa>
+            <Długość>2:31</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Deception</Nazwa>
+            <Długość>2:46</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>GodChild</Nazwa>
+            <Długość>3:08</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Boplicity</Nazwa>
+            <Długość>2:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rocker</Nazwa>
+            <Długość>3:04</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Israel</Nazwa>
+            <Długość>2:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rouge</Nazwa>
+            <Długość>3:13</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Let's Rock"
+          Artysta="The Black Keys"
+          Gatunek="Rock"
+          Data_premiery_albumu="2019-06-28"
+          Ilość_piosenek_w_albumie=" 12 "
+          Długość_albummu="00:38:30"
+          Wydawca="Easy Eye Sound"
+          Ocena="8.7/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Shine A Little Light</Nazwa>
+            <Długość>3:17</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Eagle Birds</Nazwa>
+            <Długość>2:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Lo/Hi</Nazwa>
+            <Długość>2:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Walk Across the Water</Nazwa>
+            <Długość>3:56</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Tell me Lies</Nazwa>
+            <Długość>3:40</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Every Little Thing</Nazwa>
+            <Długość>3:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Get Yourself Together</Nazwa>
+            <Długość>3:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sit Around and Miss You</Nazwa>
+            <Długość>2:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Go</Nazwa>
+            <Długość>2:27</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Breaking Down</Nazwa>
+            <Długość>3:25</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Under the Gun</Nazwa>
+            <Długość>3:16</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Fire Walk with Me</Nazwa>
+            <Długość>2:58</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Random Access Memories"
+          Artysta="Daft Punk"
+          Gatunek="Muzyka Elektroniczna"
+          Data_premiery_albumu="2017-05-13"
+          Ilość_piosenek_w_albumie="13"
+          Długość_albummu="01:14:24"
+          Wydawca="Columbia Records"
+          Ocena="8.7/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Give Life Back to Music</Nazwa>
+            <Długość>4:34</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Game of Love</Nazwa>
+            <Długość>5:21</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Giorgio By Moroder</Nazwa>
+            <Długość>9:04</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Within</Nazwa>
+            <Długość>3:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Instant Crush</Nazwa>
+            <Długość>5:37</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Lose Yourself to Dance</Nazwa>
+            <Długość>5:53</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Touch</Nazwa>
+            <Długość>8:18</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Get Lucky</Nazwa>
+            <Długość>6:07</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Beyond</Nazwa>
+            <Długość>4:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Motherboard</Nazwa>
+            <Długość>5:41</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Fragments of Time</Nazwa>
+            <Długość>4:39</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Doin' It Right</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Contact</Nazwa>
+            <Długość>6:21</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Weezer"
+          Artysta="Weezer"
+          Gatunek="Rock"
+          Data_premiery_albumu="2019-03-01"
+          Ilość_piosenek_w_albumie="10"
+          Długość_albummu="00:37:33"
+          Wydawca="Crush Music, Atlantic Records"
+          Ocena="8.3/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Can't Knock the Hustle</Nazwa>
+            <Długość>3:35</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Zombie Bastards</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>High as a Kite</Nazwa>
+            <Długość>3:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Living in L.A.</Nazwa>
+            <Długość>3:38</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Piece of Cake</Nazwa>
+            <Długość>3:17</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I'm Just Being Honest</Nazwa>
+            <Długość>3:57</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Too Many Thoughts in My Head</Nazwa>
+            <Długość>4:03</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Prince Who Wanted Everything</Nazwa>
+            <Długość>3:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Byzantine</Nazwa>
+            <Długość>4:09</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>California Snow</Nazwa>
+            <Długość>3:32</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Homework"
+          Artysta="Daft Punk"
+          Gatunek="Muzyka Elektroniczna"
+          Data_premiery_albumu="1997-01-20"
+          Ilość_piosenek_w_albumie="16"
+          Długość_albummu="01:15:53"
+          Wydawca="Virgin Records"
+          Ocena="8.3/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Daftendirekt</Nazwa>
+            <Długość>2:44</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>WDPK 83.7 FM</Nazwa>
+            <Długość>0:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Revolution 909</Nazwa>
+            <Długość>5:26</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Da Funk</Nazwa>
+            <Długość>5:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Phoenix</Nazwa>
+            <Długość>4:55</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Fresh</Nazwa>
+            <Długość>4:03</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Around the World</Nazwa>
+            <Długość>7:08</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rollin' and Scratchin</Nazwa>
+            <Długość>7:26</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Teachers</Nazwa>
+            <Długość>2:52</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>High Fidelity</Nazwa>
+            <Długość>6:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rock'n Roll</Nazwa>
+            <Długość>7:32</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Oh Yeah</Nazwa>
+            <Długość>2:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Burnin'</Nazwa>
+            <Długość>6:53</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Indo Silver Club</Nazwa>
+            <Długość>4:32</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Alive</Nazwa>
+            <Długość>5:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Funk Ad</Nazwa>
+            <Długość>0:50</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Simulation Theory"
+          Artysta="Muse"
+          Gatunek="Rock"
+          Data_premiery_albumu="2018-11-09"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:42:12"
+          Wydawca="Warner Bros. Studios"
+          Ocena="8.2/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Algorithm</Nazwa>
+            <Długość>4:05</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Dark Side</Nazwa>
+            <Długość>3:47</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pressure</Nazwa>
+            <Długość>3:55</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Propaganda</Nazwa>
+            <Długość>3:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Break It to Me</Nazwa>
+            <Długość>3:37</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Something Human</Nazwa>
+            <Długość>3:36</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Thought Contagion</Nazwa>
+            <Długość>3:26</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Get Up and Fight</Nazwa>
+            <Długość>4:04</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Blockades</Nazwa>
+            <Długość>3:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dig Down</Nazwa>
+            <Długość>3:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Void</Nazwa>
+            <Długość>4:44</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Turn Blue"
+          Artysta="The Black Keys"
+          Gatunek="Rock"
+          Data_premiery_albumu="2014-05-12"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:45:09"
+          Wydawca="Nonesuch Records"
+          Ocena="7.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Weight of Love</Nazwa>
+            <Długość>6:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>In Time</Nazwa>
+            <Długość>4:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Turn Blue</Nazwa>
+            <Długość>3:42</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Fever</Nazwa>
+            <Długość>4:06</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Year in Review</Nazwa>
+            <Długość>3:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Bullet in the Brain</Nazwa>
+            <Długość>4:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>It's Up to You Now</Nazwa>
+            <Długość>3:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Waiting in Words</Nazwa>
+            <Długość>3:37</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>10 Lovers</Nazwa>
+            <Długość>3:33</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>In our Prime</Nazwa>
+            <Długość>4:38</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Gotta Get Away</Nazwa>
+            <Długość>3:02</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Armanda"
+          Artysta="Laki Lan"
+          Gatunek="Muzyka Elektroniczna"
+          Data_premiery_albumu="2012-11-13"
+          Ilość_piosenek_w_albumie="10"
+          Długość_albummu="00:51:20"
+          Wydawca="Warner Music Poland"
+          Ocena="7.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Łan pała</Nazwa>
+            <Długość>4:22</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Lovelock</Nazwa>
+            <Długość>4:01</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dziadarap</Nazwa>
+            <Długość>4:54</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Łan For Me</Nazwa>
+            <Długość>4:21</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Infinite</Nazwa>
+            <Długość>5:44</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pompeje</Nazwa>
+            <Długość>3:39</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sundown</Nazwa>
+            <Długość>5:54</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Jammin'</Nazwa>
+            <Długość>4:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pleń</Nazwa>
+            <Długość>4:45</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Armanda</Nazwa>
+            <Długość>4:47</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Rumours"
+          Artysta="Fletwood Mac"
+          Gatunek="Pop"
+          Data_premiery_albumu="1997-02-04"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:39:43"
+          Wydawca="Warner Bros. Records"
+          Ocena="7.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Second Hand News</Nazwa>
+            <Długość>2:56</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dreams</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Never Going Back Again</Nazwa>
+            <Długość>2:14</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Don't Stop</Nazwa>
+            <Długość>3:13</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Go Your Own Way</Nazwa>
+            <Długość>3:43</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Songbird</Nazwa>
+            <Długość>3:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Chain</Nazwa>
+            <Długość>4:30</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>You Make Loving Fun</Nazwa>
+            <Długość>3:31</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I Don't Want to Know</Nazwa>
+            <Długość>3:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Oh Daddy</Nazwa>
+            <Długość>3:56</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Gold Dust Woman</Nazwa>
+            <Długość>4:56</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="We Are Not Your Kind"
+          Artysta="Slipknot"
+          Gatunek="Metal"
+          Data_premiery_albumu="2019-05-19"
+          Ilość_piosenek_w_albumie="14"
+          Długość_albummu="01:03:29"
+          Wydawca="EastWest Studios"
+          Ocena="7.8/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Insert Coin</Nazwa>
+            <Długość>1:38</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Unstained</Nazwa>
+            <Długość>4:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Birth of the Cruel</Nazwa>
+            <Długość>4:35</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Death Because of Death</Nazwa>
+            <Długość>1:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Nero Forte</Nazwa>
+            <Długość>5:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Critical Darling</Nazwa>
+            <Długość>6:25</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>A Liar's Funeral</Nazwa>
+            <Długość>5:27</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Red Flag</Nazwa>
+            <Długość>4:11</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>What's Next</Nazwa>
+            <Długość>0:53</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Spiders</Nazwa>
+            <Długość>4:03</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Orphan</Nazwa>
+            <Długość>6:01</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>My Pain</Nazwa>
+            <Długość>6:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Not Long for This World</Nazwa>
+            <Długość>6:35</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Solway Firth</Nazwa>
+            <Długość>5:56</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="True"
+          Artysta="Avicii"
+          Gatunek="House"
+          Data_premiery_albumu="2013-01-12"
+          Ilość_piosenek_w_albumie="10"
+          Długość_albummu="00:48:37"
+          Wydawca="Universal Music"
+          Ocena="7.6/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Wake Me Up</Nazwa>
+            <Długość>4:09</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>You Make Me</Nazwa>
+            <Długość>3:53</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Hey Brother</Nazwa>
+            <Długość>4:14</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Addicted to You</Nazwa>
+            <Długość>2:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Dear Boy</Nazwa>
+            <Długość>7:59</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Liar Liar</Nazwa>
+            <Długość>3:58</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Shame on Me</Nazwa>
+            <Długość>4:13</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Lay Me Down</Nazwa>
+            <Długość>5:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Hope There's Someone</Nazwa>
+            <Długość>6:21</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Heart Upon My Sleeve</Nazwa>
+            <Długość>4:40</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Stories"
+          Artysta="Avicii"
+          Gatunek="House"
+          Data_premiery_albumu="2015-10-02"
+          Ilość_piosenek_w_albumie="14"
+          Długość_albummu="00:54:40"
+          Wydawca="PRMD"
+          Ocena="7.5/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Waiting for Love</Nazwa>
+            <Długość>3:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Talk to Myself</Nazwa>
+            <Długość>3:55</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Touch Me</Nazwa>
+            <Długość>3:06</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Ten More Days</Nazwa>
+            <Długość>4:05</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>For a Better Day</Nazwa>
+            <Długość>3:26</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Broken Arrows</Nazwa>
+            <Długość>3:52</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>True Believer</Nazwa>
+            <Długość>4:48</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>City Lights</Nazwa>
+            <Długość>6:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pure Grinding</Nazwa>
+            <Długość>2:51</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sunset Jesus</Nazwa>
+            <Długość>4:24</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Can't Catch Me</Nazwa>
+            <Długość>3:59</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Somewhere in Stockholm</Nazwa>
+            <Długość>3:22</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Trouble</Nazwa>
+            <Długość>2:51</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Gona Love Ya</Nazwa>
+            <Długość>3:35</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Raditude"
+          Artysta="Weezer"
+          Gatunek="Rock"
+          Data_premiery_albumu="2009-11-03"
+          Ilość_piosenek_w_albumie="10"
+          Długość_albummu="00:34:34"
+          Wydawca="DGX"
+          Ocena="7.2/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>(If You're Wondering If I Want You To) I Want You To</Nazwa>
+            <Długość>3:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I'm Your Daddy</Nazwa>
+            <Długość>3:08</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Girl Got Hot</Nazwa>
+            <Długość>3:14</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Cant Stop Partying</Nazwa>
+            <Długość>4:22</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pull Me Back Together</Nazwa>
+            <Długość>3:15</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Trippin' Down The Freeway</Nazwa>
+            <Długość>3:40</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Love Is The Answer</Nazwa>
+            <Długość>4:43</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Let It All Hang Out</Nazwa>
+            <Długość>3:17</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>In the Mall</Nazwa>
+            <Długość>2:39</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I Don't Want To Let You Go</Nazwa>
+            <Długość>3:48</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Past Lives"
+          Artysta="Against The Current"
+          Gatunek="Pop"
+          Data_premiery_albumu="2018-09-28"
+          Ilość_piosenek_w_albumie="11"
+          Długość_albummu="00:35:49"
+          Wydawca="Fueled By Ramen"
+          Ocena="7.1/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Strangers Again</Nazwa>
+            <Długość>3:42</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>The Fuss</Nazwa>
+            <Długość>2:50</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>I Like The Way</Nazwa>
+            <Długość>3:23</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Personal</Nazwa>
+            <Długość>3:24</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Voices</Nazwa>
+            <Długość>3:24</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Scream</Nazwa>
+            <Długość>3:00</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Almost Forgot</Nazwa>
+            <Długość>3:28</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>P.A.T.T.</Nazwa>
+            <Długość>2:33</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Friendly Reminder</Nazwa>
+            <Długość>3:09</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Come Alive</Nazwa>
+            <Długość>3:24</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sweet Surrender</Nazwa>
+            <Długość>3:32</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Syntonia"
+          Artysta="Laki Lan"
+          Gatunek="Muzyka Elektroniczna"
+          Data_premiery_albumu="2016-10-18"
+          Ilość_piosenek_w_albumie="9"
+          Długość_albummu="00:51:20"
+          Wydawca="Pomaton"
+          Ocena="6.9/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Mucha nie siada</Nazwa>
+            <Długość>4:45</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Pola ar</Nazwa>
+            <Długość>5:32</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>To bee</Nazwa>
+            <Długość>4:33</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rozanielacz dusz</Nazwa>
+            <Długość>7:34</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Bombaj</Nazwa>
+            <Długość>4:47</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>To remember</Nazwa>
+            <Długość>4:20</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Sarabanda</Nazwa>
+            <Długość>5:39</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Leć tu</Nazwa>
+            <Długość>6:06</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Syntonia</Nazwa>
+            <Długość>7:54</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Album Nazwa="Natty Dread"
+          Artysta="Bob Marley"
+          Gatunek="Reggae"
+          Data_premiery_albumu="1974-10-25"
+          Ilość_piosenek_w_albumie="9"
+          Długość_albummu="00:38:59"
+          Wydawca="Island Records"
+          Ocena="6.4/10">
+      <Piosenki>
+         <Piosenka>
+            <Nazwa>Lively Up Yourself</Nazwa>
+            <Długość>5:29</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>No Woman, No Cry</Nazwa>
+            <Długość>4:06</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Them Belly Full (But We Hungry)</Nazwa>
+            <Długość>3:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Rebel Music (3 O'Clock Roadblock</Nazwa>
+            <Długość>6:40</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>So Jah Seh</Nazwa>
+            <Długość>4:25</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Natty Dread</Nazwa>
+            <Długość>3:33</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Bend Down Low</Nazwa>
+            <Długość>3:10</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Talkin' Blues</Nazwa>
+            <Długość>4:06</Długość>
+         </Piosenka>
+         <Piosenka>
+            <Nazwa>Revolution</Nazwa>
+            <Długość>4:20</Długość>
+         </Piosenka>
+      </Piosenki>
+   </Album>
+   <Podsumowanie_kolekcji>
+      <Ilość_Albumów>21</Ilość_Albumów>
+      <Całkowita_ilość_piosenek>242</Całkowita_ilość_piosenek>
+      <Ilość_alumów_rockowych>6</Ilość_alumów_rockowych>
+      <Ilość_alumów_muzyki_elektronicznej>5</Ilość_alumów_muzyki_elektronicznej>
+      <Ilość_alumów_gatunku_house>2</Ilość_alumów_gatunku_house>
+      <Ilość_alumów_popowych>5</Ilość_alumów_popowych>
+      <Ilość_alumów_metalowych>1</Ilość_alumów_metalowych>
+      <Ilość_alumów_reggae>1</Ilość_alumów_reggae>
+      <Ilość_alumów_jazzowych>1</Ilość_alumów_jazzowych>
+      <Ilość_alumów_jako_płyty_CD>12</Ilość_alumów_jako_płyty_CD>
+      <Ilość_alumów_jako_płyty_vinylowe>9</Ilość_alumów_jako_płyty_vinylowe>
+      <Najwyższa_ocena_albumu_w_kolekcji>9.9</Najwyższa_ocena_albumu_w_kolekcji>
+      <Najniższa_ocena_albumu_w_kolekcji>6.4</Najniższa_ocena_albumu_w_kolekcji>
+      <Podatek_VAT_od_ceny>289zł</Podatek_VAT_od_ceny>
+      <Najwyżej_oceniany-album>Goodbye Yellow Brick Road</Najwyżej_oceniany-album>
+      <Łączna_cena_wszystkich_albumów>1257.89zł</Łączna_cena_wszystkich_albumów>
+      <Data_wygenerowania_raportu>03-12-2019</Data_wygenerowania_raportu>
+   </Podsumowanie_kolekcji>
+</Płytoteka>

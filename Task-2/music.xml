@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type="text/css" href="music.css"?>
+
+<albums xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="albums music.xsd"
+        xmlns="albums">
+
+    <authors>
+        <author>
+            <authorName>Piotr</authorName>
+            <authorSurname>Antczak</authorSurname>
+            <authorindex>224248</authorindex>
+        </author>
+        <author>
+            <authorName>Mikołaj</authorName>
+            <authorSurname>Bajkowski</authorSurname>
+            <authorindex>224251</authorindex>
+        </author>
+    </authors>
+    <bandlist>
+        <bandinfo band_id="BKey">
+            <name>The Black Keys></name>
+        </bandinfo>
+        <bandinfo band_id="Weez">
+            <name>Weezer</name>
+        </bandinfo>
+        <bandinfo band_id="DPun">
+            <name>Daft Punk</name>
+        </bandinfo>
+        <bandinfo band_id="LLan">
+            <name>Łąki Łan</name>
+        </bandinfo>
+        <bandinfo band_id="Avic">
+            <name>Avicii</name>
+        </bandinfo>
+        <bandinfo band_id="MJac">
+            <name>Michael Jackson</name>
+        </bandinfo>
+        <bandinfo band_id="ATCu">
+            <name>Against The Current</name>
+        </bandinfo>
+        <bandinfo band_id="FMac">
+            <name>Fletwood Mac</name>
+        </bandinfo>
+        <bandinfo band_id="EJoh">
+            <name>Elton John</name>
+        </bandinfo>
+        <bandinfo band_id="Slip">
+            <name>Slipknot</name>
+        </bandinfo>
+        <bandinfo band_id="BMar">
+            <name>Bob Marley</name>
+        </bandinfo>
+        <bandinfo band_id="MDav">
+            <name>Miles Davis</name>
+        </bandinfo>
+        <bandinfo band_id="Muse">
+            <name>Muse</name>
+        </bandinfo>
+    </bandlist>
+    <!--Collection/Kolekcja płyt-->
+    <albumlist>
+        <album genre_type="Rock" type="Vinyl" id="A1">
+            <info>
+                <album_title>Let's Rock</album_title>
+                <band band_id_ref="BKey">The Black Keys</band>
+                <studio>Easy Eye Sound</studio>
+                <release_year>2019-06-28</release_year>
+                <number_of_songs>12</number_of_songs>
+                <total_length>00:38:30</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-22345-AA4</serial_number>
+                <shop_id>234P45Y</shop_id>
+                <rating>8.7</rating>
+                <price>80.00</price>
+            </info>
+            <pic1 p_id="LR"/>
+            <songs>
+                <song>
+                    <title>Shine A Little Light</title>
+                    <song_length>3:17</song_length>
+                </song>
+                <song>
+                    <title>Eagle Birds</title>
+                    <song_length>2:41</song_length>
+                </song>
+                <song>
+                    <title>Lo/Hi</title>
+                    <song_length>2:58</song_length>
+                </song>
+                <song>
+                    <title>Walk Across the Water</title>
+                    <song_length>3:56</song_length>
+                </song>
+                <song>
+                    <title>Tell me Lies</title>
+                    <song_length>3:40</song_length>
+                </song>
+                <song>
+                    <title>Every Little Thing</title>
+                    <song_length>3:20</song_length>
+                </song>
+                <song>
+                    <title>Get Yourself Together</title>
+                    <song_length>3:57</song_length>
+                </song>
+                <song>
+                    <title>Sit Around and Miss You</title>
+                    <song_length>2:41</song_length>
+                </song>
+                <song>
+                    <title>Go</title>
+                    <song_length>2:27</song_length>
+                </song>
+                <song>
+                    <title>Breaking Down</title>
+                    <song_length>3:25</song_length>
+                </song>
+                <song>
+                    <title>Under the Gun</title>
+                    <song_length>3:16</song_length>
+                </song>
+                <song>
+                    <title>Fire Walk with Me</title>
+                    <song_length>2:58</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Rock" type="CD" id="A2">
+            <info>
+                <album_title>El Camino</album_title>
+                <band band_id_ref="BKey">The Black Keys</band>
+                <studio>Nonesuch Records</studio>
+                <release_year>2011-12-02</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:37:42</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-27325-AA4</serial_number>
+                <shop_id>368B67U</shop_id>
+                <rating>8.90</rating>
+                <price>45.00</price>
+            </info>
+            <pic1 p_id="EC"/>
+            <songs>
+                <song>
+                    <title>Lonley Boy</title>
+                    <song_length>3:13</song_length>
+                </song>
+                <song>
+                    <title>Dead and Gone</title>
+                    <song_length>3:41</song_length>
+                </song>
+                <song>
+                    <title>Cold on the Ceiling</title>
+                    <song_length>2:44</song_length>
+                </song>
+                <song>
+                    <title>Little black Submarines</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>Money Maker</title>
+                    <song_length>2:57</song_length>
+                </song>
+                <song>
+                    <title>Run Right Back</title>
+                    <song_length>3:17</song_length>
+                </song>
+                <song>
+                    <title>Sister</title>
+                    <song_length>3:25</song_length>
+                </song>
+                <song>
+                    <title>Hello of a Season</title>
+                    <song_length>3:45</song_length>
+                </song>
+                <song>
+                    <title>Stop Stop</title>
+                    <song_length>3:30</song_length>
+                </song>
+                <song>
+                    <title>Nova Baby</title>
+                    <song_length>3:27</song_length>
+                </song>
+                <song>
+                    <title>Mind Eraser</title>
+                    <song_length>3:15</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Rock" type="Vinyl" id="A3">
+            <info>
+                <album_title>Turn Blue</album_title>
+                <band band_id_ref="BKey">The Black Keys</band>
+                <studio>Nonesuch Records</studio>
+                <release_year>2014-05-12</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:45:09</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-22925-AA4</serial_number>
+                <shop_id>368B67U</shop_id>
+                <rating>7.90</rating>
+                <price>75.00</price>
+            </info>
+            <pic1 p_id="TB"/>
+            <songs>
+                <song>
+                    <title>Weight of Love</title>
+                    <song_length>6:50</song_length>
+                </song>
+                <song>
+                    <title>In Time</title>
+                    <song_length>4:28</song_length>
+                </song>
+                <song>
+                    <title>Turn Blue</title>
+                    <song_length>3:42</song_length>
+                </song>
+                <song>
+                    <title>Fever</title>
+                    <song_length>4:06</song_length>
+                </song>
+                <song>
+                    <title>Year in Review</title>
+                    <song_length>3:48</song_length>
+                </song>
+                <song>
+                    <title>Bullet in the Brain</title>
+                    <song_length>4:15</song_length>
+                </song>
+                <song>
+                    <title>It's Up to You Now</title>
+                    <song_length>3:10</song_length>
+                </song>
+                <song>
+                    <title>Waiting in Words</title>
+                    <song_length>3:37</song_length>
+                </song>
+                <song>
+                    <title>10 Lovers</title>
+                    <song_length>3:33</song_length>
+                </song>
+                <song>
+                    <title>In our Prime</title>
+                    <song_length>4:38</song_length>
+                </song>
+                <song>
+                    <title>Gotta Get Away</title>
+                    <song_length>3:02</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Rock" type="CD" id="A4">
+            <info>
+                <album_title>Weezer</album_title>
+                <band band_id_ref="Weez">Weezer</band>
+                <studio>Crush Music, Atlantic Records</studio>
+                <release_year>2019-03-01</release_year>
+                <number_of_songs>10</number_of_songs>
+                <total_length>00:37:33</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-12745-DA4</serial_number>
+                <shop_id>588Z34H</shop_id>
+                <rating>8.3</rating>
+                <price>45.00</price>
+            </info>
+            <pic1 p_id="WR"/>
+            <songs>
+                <song>
+                    <title>Can't Knock the Hustle</title>
+                    <song_length>3:35</song_length>
+                </song>
+                <song>
+                    <title>Zombie Bastards</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>High as a Kite</title>
+                    <song_length>3:48</song_length>
+                </song>
+                <song>
+                    <title>Living in L.A.</title>
+                    <song_length>3:38</song_length>
+                </song>
+                <song>
+                    <title>Piece of Cake</title>
+                    <song_length>3:17</song_length>
+                </song>
+                <song>
+                    <title>I'm Just Being Honest</title>
+                    <song_length>3:57</song_length>
+                </song>
+                <song>
+                    <title>Too Many Thoughts in My Head</title>
+                    <song_length>4:03</song_length>
+                </song>
+                <song>
+                    <title>The Prince Who Wanted Everything</title>
+                    <song_length>3:23</song_length>
+                </song>
+                <song>
+                    <title>Byzantine</title>
+                    <song_length>4:09</song_length>
+                </song>
+                <song>
+                    <title>California Snow</title>
+                    <song_length>3:32</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Rock" type="CD" id="A5">
+            <info>
+                <album_title>Raditude</album_title>
+                <band band_id_ref="Weez">Weezer</band>
+                <studio>DGX</studio>
+                <release_year>2009-11-03</release_year>
+                <number_of_songs>10</number_of_songs>
+                <total_length>00:34:34</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-32365-AC4</serial_number>
+                <shop_id>221F55F</shop_id>
+                <rating>7.2</rating>
+                <price>40.00</price>
+            </info>
+            <pic1 p_id="RD"/>
+            <songs>
+                <song>
+                    <title>(If You're Wondering If I Want You To) I Want You To</title>
+                    <song_length>3:28</song_length>
+                </song>
+                <song>
+                    <title>I'm Your Daddy</title>
+                    <song_length>3:08</song_length>
+                </song>
+                <song>
+                    <title>The Girl Got Hot</title>
+                    <song_length>3:14</song_length>
+                </song>
+                <song>
+                    <title>Cant Stop Partying</title>
+                    <song_length>4:22</song_length>
+                </song>
+                <song>
+                    <title>Pull Me Back Together</title>
+                    <song_length>3:15</song_length>
+                </song>
+                <song>
+                    <title>Trippin' Down The Freeway</title>
+                    <song_length>3:40</song_length>
+                </song>
+                <song>
+                    <title>Love Is The Answer</title>
+                    <song_length>4:43</song_length>
+                </song>
+                <song>
+                    <title>Let It All Hang Out</title>
+                    <song_length>3:17</song_length>
+                </song>
+                <song>
+                    <title>In the Mall</title>
+                    <song_length>2:39</song_length>
+                </song>
+                <song>
+                    <title>I Don't Want To Let You Go</title>
+                    <song_length>3:48</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Electronic" type="CD" id="A6">
+            <info>
+                <album_title>Homework</album_title>
+                <band band_id_ref="DPun">Daft Punk</band>
+                <studio>Virgin Records</studio>
+                <release_year>1997-01-20</release_year>
+                <number_of_songs>16</number_of_songs>
+                <total_length>01:15:53</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-20345-DD4</serial_number>
+                <shop_id>213P72W</shop_id>
+                <rating>8.3</rating>
+                <price>45.00</price>
+            </info>
+            <pic1 p_id="HW"/>
+            <songs>
+                <song>
+                    <title>Daftendirekt</title>
+                    <song_length>2:44</song_length>
+                </song>
+                <song>
+                    <title>WDPK 83.7 FM</title>
+                    <song_length>0:28</song_length>
+                </song>
+                <song>
+                    <title>Revolution 909</title>
+                    <song_length>5:26</song_length>
+                </song>
+                <song>
+                    <title>Da Funk</title>
+                    <song_length>5:28</song_length>
+                </song>
+                <song>
+                    <title>Phoenix</title>
+                    <song_length>4:55</song_length>
+                </song>
+                <song>
+                    <title>Fresh</title>
+                    <song_length>4:03</song_length>
+                </song>
+                <song>
+                    <title>Around the World</title>
+                    <song_length>7:08</song_length>
+                </song>
+                <song>
+                    <title>Rollin' and Scratchin</title>
+                    <song_length>7:26</song_length>
+                </song>
+                <song>
+                    <title>Teachers</title>
+                    <song_length>2:52</song_length>
+                </song>
+                <song>
+                    <title>High Fidelity</title>
+                    <song_length>6:00</song_length>
+                </song>
+                <song>
+                    <title>Rock'n Roll</title>
+                    <song_length>7:32</song_length>
+                </song>
+                <song>
+                    <title>Oh Yeah</title>
+                    <song_length>2:00</song_length>
+                </song>
+                <song>
+                    <title>Burnin'</title>
+                    <song_length>6:53</song_length>
+                </song>
+                <song>
+                    <title>Indo Silver Club</title>
+                    <song_length>4:32</song_length>
+                </song>
+                <song>
+                    <title>Alive</title>
+                    <song_length>5:15</song_length>
+                </song>
+                <song>
+                    <title>Funk Ad</title>
+                    <song_length>0:50</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Electronic" type="CD" id="A7">
+            <info>
+                <album_title>Discovery</album_title>
+                <band band_id_ref="DPun">Daft Punk</band>
+                <studio>Virgin Records</studio>
+                <release_year>2001-03-03</release_year>
+                <number_of_songs>14</number_of_songs>
+                <total_length>01:00:54</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-92995-DE4</serial_number>
+                <shop_id>588Z34H</shop_id>
+                <rating>9.60</rating>
+                <price>50.99</price>
+            </info>
+            <pic1 p_id="DC"/>
+            <songs>
+                <song>
+                    <title>One More Time</title>
+                    <song_length>5:20</song_length>
+                </song>
+                <song>
+                    <title>Areodynamic</title>
+                    <song_length>3:27</song_length>
+                </song>
+                <song>
+                    <title>Digital Love</title>
+                    <song_length>4:58</song_length>
+                </song>
+                <song>
+                    <title>Harder,Better,Faster,Stronger</title>
+                    <song_length>3:45</song_length>
+                </song>
+                <song>
+                    <title>Crescendolls</title>
+                    <song_length>3:32</song_length>
+                </song>
+                <song>
+                    <title>Nightvision</title>
+                    <song_length>1:44</song_length>
+                </song>
+                <song>
+                    <title>Superheroes</title>
+                    <song_length>3:57</song_length>
+                </song>
+                <song>
+                    <title>High Life</title>
+                    <song_length>3:22</song_length>
+                </song>
+                <song>
+                    <title>Voyager</title>
+                    <song_length>3:47</song_length>
+                </song>
+                <song>
+                    <title>Veridis Quo</title>
+                    <song_length>5:44</song_length>
+                </song>
+                <song>
+                    <title>Short Circuit</title>
+                    <song_length>3:26</song_length>
+                </song>
+                <song>
+                    <title>Face to Face</title>
+                    <song_length>3:58</song_length>
+                </song>
+                <song>
+                    <title>Too Long</title>
+                    <song_length>9:00</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Electronic" type="Vinyl" id="A8">
+            <info>
+                <album_title>Random Access Memories</album_title>
+                <band band_id_ref="DPun">Daft Punk</band>
+                <studio>Columbia Records</studio>
+                <release_year>2017-05-13</release_year>
+                <number_of_songs>13</number_of_songs>
+                <total_length>01:14:24</total_length>
+                <number_of_disks>2</number_of_disks>
+                <serial_number>CD-22345-AA4</serial_number>
+                <shop_id>334U11X</shop_id>
+                <rating>8.7</rating>
+                <price>40</price>
+            </info>
+            <pic1 p_id="RAM"/>
+            <songs>
+                <song>
+                    <title>Give Life Back to Music</title>
+                    <song_length>4:34</song_length>
+                </song>
+                <song>
+                    <title>The Game of Love</title>
+                    <song_length>5:21</song_length>
+                </song>
+                <song>
+                    <title>Giorgio By Moroder</title>
+                    <song_length>9:04</song_length>
+                </song>
+                <song>
+                    <title>Within</title>
+                    <song_length>3:48</song_length>
+                </song>
+                <song>
+                    <title>Instant Crush</title>
+                    <song_length>5:37</song_length>
+                </song>
+                <song>
+                    <title>Lose Yourself to Dance</title>
+                    <song_length>5:53</song_length>
+                </song>
+                <song>
+                    <title>Touch</title>
+                    <song_length>8:18</song_length>
+                </song>
+                <song>
+                    <title>Get Lucky</title>
+                    <song_length>6:07</song_length>
+                </song>
+                <song>
+                    <title>Beyond</title>
+                    <song_length>4:50</song_length>
+                </song>
+                <song>
+                    <title>Motherboard</title>
+                    <song_length>5:41</song_length>
+                </song>
+                <song>
+                    <title>Fragments of Time</title>
+                    <song_length>4:39</song_length>
+                </song>
+                <song>
+                    <title>Doin' It Right</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>Contact</title>
+                    <song_length>6:21</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Electronic" type="CD" id="A9">
+            <info>
+                <album_title>Syntonia</album_title>
+                <band band_id_ref="LLan">Łąki Łan</band>
+                <studio>Pomaton</studio>
+                <release_year>2016-10-18</release_year>
+                <number_of_songs>9</number_of_songs>
+                <total_length>00:51:20</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-11395-EH2</serial_number>
+                <shop_id>213P72W</shop_id>
+                <rating>6.90</rating>
+                <price>40</price>
+            </info>
+            <pic1 p_id="SYN"/>
+            <songs>
+                <song>
+                    <title>Mucha nie siada</title>
+                    <song_length>4:45</song_length>
+                </song>
+                <song>
+                    <title>Pola ar</title>
+                    <song_length>5:32</song_length>
+                </song>
+                <song>
+                    <title>To bee</title>
+                    <song_length>4:33</song_length>
+                </song>
+                <song>
+                    <title>Rozanielacz dusz</title>
+                    <song_length>7:34</song_length>
+                </song>
+                <song>
+                    <title>Bombaj</title>
+                    <song_length>4:47</song_length>
+                </song>
+                <song>
+                    <title>To remember</title>
+                    <song_length>4:20</song_length>
+                </song>
+                <song>
+                    <title>Sarabanda</title>
+                    <song_length>5:39</song_length>
+                </song>
+                <song>
+                    <title>Leć tu</title>
+                    <song_length>6:06</song_length>
+                </song>
+                <song>
+                    <title>Syntonia</title>
+                    <song_length>7:54</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Electronic" type="CD" id="A10">
+            <info>
+                <album_title>Armanda</album_title>
+                <band band_id_ref="LLan">Łąki Łan</band>
+                <studio>Warner Music Poland</studio>
+                <release_year>2012-11-13</release_year>
+                <number_of_songs>10</number_of_songs>
+                <total_length>00:51:20</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-42365-GY2</serial_number>
+                <shop_id>368B67U</shop_id>
+                <rating>7.9</rating>
+                <price>35</price>
+            </info>
+            <pic1 p_id="ARM"/>
+            <songs>
+                <song>
+                    <title>Łan pała</title>
+                    <song_length>4:22</song_length>
+                </song>
+                <song>
+                    <title>Lovelock</title>
+                    <song_length>4:01</song_length>
+                </song>
+                <song>
+                    <title>Dziadarap</title>
+                    <song_length>4:54</song_length>
+                </song>
+                <song>
+                    <title>Łan For Me</title>
+                    <song_length>4:21</song_length>
+                </song>
+                <song>
+                    <title>Infinite</title>
+                    <song_length>5:44</song_length>
+                </song>
+                <song>
+                    <title>Pompeje</title>
+                    <song_length>3:39</song_length>
+                </song>
+                <song>
+                    <title>Sundown</title>
+                    <song_length>5:54</song_length>
+                </song>
+                <song>
+                    <title>Jammin'</title>
+                    <song_length>4:15</song_length>
+                </song>
+                <song>
+                    <title>Pleń</title>
+                    <song_length>4:45</song_length>
+                </song>
+                <song>
+                    <title>Armanda</title>
+                    <song_length>4:47</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="House" type="CD" id="A11">
+            <info>
+                <album_title>True</album_title>
+                <band band_id_ref="Avic">Avicii</band>
+                <studio>Universal Music</studio>
+                <release_year>2013-01-12</release_year>
+                <number_of_songs>10</number_of_songs>
+                <total_length>00:48:37</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-33795-RY1</serial_number>
+                <shop_id>221F55F</shop_id>
+                <rating>7.6</rating>
+                <price>42</price>
+            </info>
+            <pic1 p_id="TRUE"/>
+            <songs>
+                <song>
+                    <title>Wake Me Up</title>
+                    <song_length>4:09</song_length>
+                </song>
+                <song>
+                    <title>You Make Me</title>
+                    <song_length>3:53</song_length>
+                </song>
+                <song>
+                    <title>Hey Brother</title>
+                    <song_length>4:14</song_length>
+                </song>
+                <song>
+                    <title>Addicted to You</title>
+                    <song_length>2:28</song_length>
+                </song>
+                <song>
+                    <title>Dear Boy</title>
+                    <song_length>7:59</song_length>
+                </song>
+                <song>
+                    <title>Liar Liar</title>
+                    <song_length>3:58</song_length>
+                </song>
+                <song>
+                    <title>Shame on Me</title>
+                    <song_length>4:13</song_length>
+                </song>
+                <song>
+                    <title>Lay Me Down</title>
+                    <song_length>5:00</song_length>
+                </song>
+                <song>
+                    <title>Hope There's Someone</title>
+                    <song_length>6:21</song_length>
+                </song>
+                <song>
+                    <title>Heart Upon My Sleeve</title>
+                    <song_length>4:40</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="House" type="CD" id="A12">
+            <info>
+                <album_title>Stories</album_title>
+                <band band_id_ref="Avic">Avicii</band>
+                <studio>PRMD</studio>
+                <release_year>2015-10-02</release_year>
+                <number_of_songs>14</number_of_songs>
+                <total_length>00:54:40</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-77545-OP4</serial_number>
+                <shop_id>222U22U</shop_id>
+                <rating>7.5</rating>
+                <price>48.99</price>
+            </info>
+            <pic1 p_id="STR"/>
+            <songs>
+                <song>
+                    <title>Waiting for Love</title>
+                    <song_length>3:50</song_length>
+                </song>
+                <song>
+                    <title>Talk to Myself</title>
+                    <song_length>3:55</song_length>
+                </song>
+                <song>
+                    <title>Touch Me</title>
+                    <song_length>3:06</song_length>
+                </song>
+                <song>
+                    <title>Ten More Days</title>
+                    <song_length>4:05</song_length>
+                </song>
+                <song>
+                    <title>For a Better Day</title>
+                    <song_length>3:26</song_length>
+                </song>
+                <song>
+                    <title>Broken Arrows</title>
+                    <song_length>3:52</song_length>
+                </song>
+                <song>
+                    <title>True Believer</title>
+                    <song_length>4:48</song_length>
+                </song>
+                <song>
+                    <title>City Lights</title>
+                    <song_length>6:28</song_length>
+                </song>
+                <song>
+                    <title>Pure Grinding</title>
+                    <song_length>2:51</song_length>
+                </song>
+                <song>
+                    <title>Sunset Jesus</title>
+                    <song_length>4:24</song_length>
+                </song>
+                <song>
+                    <title>Can't Catch Me</title>
+                    <song_length>3:59</song_length>
+                </song>
+                <song>
+                    <title>Somewhere in Stockholm</title>
+                    <song_length>3:22</song_length>
+                </song>
+                <song>
+                    <title>Trouble</title>
+                    <song_length>2:51</song_length>
+                </song>
+                <song>
+                    <title>Gona Love Ya</title>
+                    <song_length>3:35</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Pop" type="Vinyl" id="A13">
+            <info>
+                <album_title>Thriller</album_title>
+                <band band_id_ref="MJac">Michael Jackson</band>
+                <studio>Quincy Jones</studio>
+                <release_year>1982-11-30</release_year>
+                <number_of_songs>9</number_of_songs>
+                <total_length>00:42:19</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-29005-IA3</serial_number>
+                <shop_id>221F55F</shop_id>
+                <rating>9.30</rating>
+                <price>89.99</price>
+            </info>
+            <pic1 p_id="TLR"/>
+            <songs>
+                <song>
+                    <title>Wanna Be Startin' Somethin</title>
+                    <song_length>6:02</song_length>
+                </song>
+                <song>
+                    <title>Baby Be Mine</title>
+                    <song_length>4:20</song_length>
+                </song>
+                <song>
+                    <title>The Girl Is Mine</title>
+                    <song_length>3:41</song_length>
+                </song>
+                <song>
+                    <title>Thriller</title>
+                    <song_length>5:57</song_length>
+                </song>
+                <song>
+                    <title>Beat It</title>
+                    <song_length>4:18</song_length>
+                </song>
+                <song>
+                    <title>Billie Jean</title>
+                    <song_length>4:54</song_length>
+                </song>
+                <song>
+                    <title>Human Nature</title>
+                    <song_length>4:07</song_length>
+                </song>
+                <song>
+                    <title>P.Y.T</title>
+                    <song_length>3:58</song_length>
+                </song>
+                <song>
+                    <title>The Lady In My Life</title>
+                    <song_length>4:59</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Pop" type="CD" id="A14">
+            <info>
+                <album_title>Past Lives</album_title>
+                <band band_id_ref="ATCu">Against The Current</band>
+                <studio>Fueled By Ramen</studio>
+                <release_year>2018-09-28</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:35:49</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-57206-BO5</serial_number>
+                <shop_id>588Z34H</shop_id>
+                <rating>7.1</rating>
+                <price>45.99</price>
+            </info>
+            <pic1 p_id="PL"/>
+            <songs>
+                <song>
+                    <title>Strangers Again</title>
+                    <song_length>3:42</song_length>
+                </song>
+                <song>
+                    <title>The Fuss</title>
+                    <song_length>2:50</song_length>
+                </song>
+                <song>
+                    <title>I Like The Way</title>
+                    <song_length>3:23</song_length>
+                </song>
+                <song>
+                    <title>Personal</title>
+                    <song_length>3:24</song_length>
+                </song>
+                <song>
+                    <title>Voices</title>
+                    <song_length>3:24</song_length>
+                </song>
+                <song>
+                    <title>Scream</title>
+                    <song_length>3:00</song_length>
+                </song>
+                <song>
+                    <title>Almost Forgot</title>
+                    <song_length>3:28</song_length>
+                </song>
+                <song>
+                    <title>P.A.T.T.</title>
+                    <song_length>2:33</song_length>
+                </song>
+                <song>
+                    <title>Friendly Reminder</title>
+                    <song_length>3:09</song_length>
+                </song>
+                <song>
+                    <title>Come Alive</title>
+                    <song_length>3:24</song_length>
+                </song>
+                <song>
+                    <title>Sweet Surrender</title>
+                    <song_length>3:32</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Pop" type="Vinyl" id="A15">
+            <info>
+                <album_title>Rumours</album_title>
+                <band band_id_ref="FMac">Fletwood Mac</band>
+                <studio>Warner Bros. Records</studio>
+                <release_year>1997-02-04</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:39:43</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-69376-AU3</serial_number>
+                <shop_id>334U11X</shop_id>
+                <rating>7.9</rating>
+                <price>79.99</price>
+            </info>
+            <pic1 p_id="RM"/>
+            <songs>
+                <song>
+                    <title>Second Hand News</title>
+                    <song_length>2:56</song_length>
+                </song>
+                <song>
+                    <title>Dreams</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>Never Going Back Again</title>
+                    <song_length>2:14</song_length>
+                </song>
+                <song>
+                    <title>Don't Stop</title>
+                    <song_length>3:13</song_length>
+                </song>
+                <song>
+                    <title>Go Your Own Way</title>
+                    <song_length>3:43</song_length>
+                </song>
+                <song>
+                    <title>Songbird</title>
+                    <song_length>3:20</song_length>
+                </song>
+                <song>
+                    <title>The Chain</title>
+                    <song_length>4:30</song_length>
+                </song>
+                <song>
+                    <title>You Make Loving Fun</title>
+                    <song_length>3:31</song_length>
+                </song>
+                <song>
+                    <title>I Don't Want to Know</title>
+                    <song_length>3:15</song_length>
+                </song>
+                <song>
+                    <title>Oh Daddy</title>
+                    <song_length>3:56</song_length>
+                </song>
+                <song>
+                    <title>Gold Dust Woman</title>
+                    <song_length>4:56</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Pop" type="Vinyl" id="A16">
+            <info>
+                <album_title>Goodbye Yellow Brick Road</album_title>
+                <band band_id_ref="EJoh">Elton John</band>
+                <studio>MCA Records</studio>
+                <release_year>1973-10-05</release_year>
+                <number_of_songs>1</number_of_songs>
+                <total_length>01:16:20</total_length>
+                <number_of_disks>2</number_of_disks>
+                <serial_number>CD-69371-AH5</serial_number>
+                <shop_id>213P72W</shop_id>
+                <rating>9.9</rating>
+                <price>119.99</price>
+            </info>
+            <pic1 p_id="GYBR"/>
+            <songs>
+                <song>
+                    <title>Funeral for a friend</title>
+                    <song_length>1:09</song_length>
+                </song>
+                <song>
+                    <title>Candle in the Wind</title>
+                    <song_length>3:50</song_length>
+                </song>
+                <song>
+                    <title>Bennie and the Jets</title>
+                    <song_length>5:23</song_length>
+                </song>
+                <song>
+                    <title>Goodbye Yellow Brick Road</title>
+                    <song_length>5:23</song_length>
+                </song>
+                <song>
+                    <title>This Song Has No Title</title>
+                    <song_length>2:23</song_length>
+                </song>
+                <song>
+                    <title>Grey Seal</title>
+                    <song_length>4:00</song_length>
+                </song>
+                <song>
+                    <title>Jamaica Jerk-Off</title>
+                    <song_length>3:39</song_length>
+                </song>
+                <song>
+                    <title>I've Seen Movie Too</title>
+                    <song_length>5:59</song_length>
+                </song>
+                <song>
+                    <title>Sweet Painted Lady</title>
+                    <song_length>3:54</song_length>
+                </song>
+                <song>
+                    <title>The Balad of Dany Bailey</title>
+                    <song_length>4:23</song_length>
+                </song>
+                <song>
+                    <title>Dirty Little Girl</title>
+                    <song_length>5:00</song_length>
+                </song>
+                <song>
+                    <title>All the Girls Love Alice</title>
+                    <song_length>5:09</song_length>
+                </song>
+                <song>
+                    <title>Your Sister Can't Twist (But She Can Rock'n Roll)</title>
+                    <song_length>2:42</song_length>
+                </song>
+                <song>
+                    <title>Saturday Night Alright For Fighting</title>
+                    <song_length>4:57</song_length>
+                </song>
+                <song>
+                    <title>Roy Rogers</title>
+                    <song_length>4:07</song_length>
+                </song>
+                <song>
+                    <title>Social Disease</title>
+                    <song_length>3:42</song_length>
+                </song>
+                <song>
+                    <title>Harmony</title>
+                    <song_length>2:46</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Pop" type="Vinyl" id="A17">
+            <info>
+                <album_title>Off the Wall</album_title>
+                <band band_id_ref="MJac">Michael Jackson</band>
+                <studio>Epic Records</studio>
+                <release_year>1979-08-10</release_year>
+                <number_of_songs>10</number_of_songs>
+                <total_length>00:42:28</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-20075-JJ2</serial_number>
+                <shop_id>334U11X</shop_id>
+                <rating>9.2</rating>
+                <price>79.99</price>
+            </info>
+            <pic1 p_id="OTW"/>
+            <songs>
+                <song>
+                    <title>Don't Stop 'Til You Get Enough</title>
+                    <song_length>6:02</song_length>
+                </song>
+                <song>
+                    <title>Rock With You</title>
+                    <song_length>3:08</song_length>
+                </song>
+                <song>
+                    <title>Working Day and Night</title>
+                    <song_length>5:10</song_length>
+                </song>
+                <song>
+                    <title>Get on the Floor</title>
+                    <song_length>4:42</song_length>
+                </song>
+                <song>
+                    <title>Off the Wall</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>Girlfriend</title>
+                    <song_length>3:08</song_length>
+                </song>
+                <song>
+                    <title>She's Out of My Life</title>
+                    <song_length>3:41</song_length>
+                </song>
+                <song>
+                    <title>I Can't Help It</title>
+                    <song_length>4:28</song_length>
+                </song>
+                <song>
+                    <title>It's Falling in Love</title>
+                    <song_length>3:52</song_length>
+                </song>
+                <song>
+                    <title>Burn This Disco Out</title>
+                    <song_length>3:39</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Metal" type="CD" id="A18">
+            <info>
+                <album_title>We Are Not Your Kind</album_title>
+                <band band_id_ref="Slip">Slipknot</band>
+                <studio>EastWest Studios</studio>
+                <release_year>2019-05-19</release_year>
+                <number_of_songs>14</number_of_songs>
+                <total_length>01:03:29</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-60275-UI2</serial_number>
+                <shop_id>368B67U</shop_id>
+                <rating>7.8</rating>
+                <price>39.99</price>
+            </info>
+            <pic1 p_id="WANYK"/>
+            <songs>
+                <song>
+                    <title>Insert Coin</title>
+                    <song_length>1:38</song_length>
+                </song>
+                <song>
+                    <title>Unstained</title>
+                    <song_length>4:20</song_length>
+                </song>
+                <song>
+                    <title>Birth of the Cruel</title>
+                    <song_length>4:35</song_length>
+                </song>
+                <song>
+                    <title>Death Because of Death</title>
+                    <song_length>1:20</song_length>
+                </song>
+                <song>
+                    <title>Nero Forte</title>
+                    <song_length>5:15</song_length>
+                </song>
+                <song>
+                    <title>Critical Darling</title>
+                    <song_length>6:25</song_length>
+                </song>
+                <song>
+                    <title>A Liar's Funeral</title>
+                    <song_length>5:27</song_length>
+                </song>
+                <song>
+                    <title>Red Flag</title>
+                    <song_length>4:11</song_length>
+                </song>
+                <song>
+                    <title>What's Next</title>
+                    <song_length>0:53</song_length>
+                </song>
+                <song>
+                    <title>Spiders</title>
+                    <song_length>4:03</song_length>
+                </song>
+                <song>
+                    <title>Orphan</title>
+                    <song_length>6:01</song_length>
+                </song>
+                <song>
+                    <title>My Pain</title>
+                    <song_length>6:48</song_length>
+                </song>
+                <song>
+                    <title>Not Long for This World</title>
+                    <song_length>6:35</song_length>
+                </song>
+                <song>
+                    <title>Solway Firth</title>
+                    <song_length>5:56</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Reggae" type="Vinyl" id="A19">
+            <info>
+                <album_title>Natty Dread</album_title>
+                <band band_id_ref="BMar">Bob Marley</band>
+                <studio>Island Records</studio>
+                <release_year>1974-10-25</release_year>
+                <number_of_songs>9</number_of_songs>
+                <total_length>00:38:59</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-26005-RR4</serial_number>
+                <shop_id>221F55F</shop_id>
+                <rating>6.4</rating>
+                <price>74.99</price>
+            </info>
+            <pic1 p_id="ND"/>
+            <songs>
+                <song>
+                    <title>Lively Up Yourself</title>
+                    <song_length>5:29</song_length>
+                </song>
+                <song>
+                    <title>No Woman, No Cry</title>
+                    <song_length>4:06</song_length>
+                </song>
+                <song>
+                    <title>Them Belly Full (But We Hungry)</title>
+                    <song_length>3:10</song_length>
+                </song>
+                <song>
+                    <title>Rebel Music (3 O'Clock Roadblock</title>
+                    <song_length>6:40</song_length>
+                </song>
+                <song>
+                    <title>So Jah Seh</title>
+                    <song_length>4:25</song_length>
+                </song>
+                <song>
+                    <title>Natty Dread</title>
+                    <song_length>3:33</song_length>
+                </song>
+                <song>
+                    <title>Bend Down Low</title>
+                    <song_length>3:10</song_length>
+                </song>
+                <song>
+                    <title>Talkin' Blues</title>
+                    <song_length>4:06</song_length>
+                </song>
+                <song>
+                    <title>Revolution</title>
+                    <song_length>4:20</song_length>
+                </song>
+            </songs>
+        </album>
+        <album genre_type="Jazz" type="Vinyl" id="A20">
+            <info>
+                <album_title>Birth of the Cool</album_title>
+                <band band_id_ref="MDav">Miles Davis</band>
+                <studio>Capitol</studio>
+                <release_year>1957-02-01</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:35:29</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-23305-VA4</serial_number>
+                <shop_id>588Z34H</shop_id>
+                <rating>8.9</rating>
+                <price>89.99</price>
+            </info>
+            <pic1 p_id="BOTC"/>
+            <songs>
+                <song>
+                    <title>Move</title>
+                    <song_length>2:29</song_length>
+                </song>
+                <song>
+                    <title>Jeru</title>
+                    <song_length>3:10</song_length>
+                </song>
+                <song>
+                    <title>Moon Dreams</title>
+                    <song_length>3:13</song_length>
+                </song>
+                <song>
+                    <title>Venus De Milo</title>
+                    <song_length>3:10</song_length>
+                </song>
+                <song>
+                    <title>Budo</title>
+                    <song_length>2:31</song_length>
+                </song>
+                <song>
+                    <title>Deception</title>
+                    <song_length>2:46</song_length>
+                </song>
+                <song>
+                    <title>GodChild</title>
+                    <song_length>3:08</song_length>
+                </song>
+                <song>
+                    <title>Boplicity</title>
+                    <song_length>2:58</song_length>
+                </song>
+                <song>
+                    <title>Rocker</title>
+                    <song_length>3:04</song_length>
+                </song>
+                <song>
+                    <title>Israel</title>
+                    <song_length>2:15</song_length>
+                </song>
+                <song>
+                    <title>Rouge</title>
+                    <song_length>3:13</song_length>
+                </song>
+            </songs>
+        </album>
+        <album id="A21" genre_type="Rock" type="CD">
+            <info>
+                <album_title>Simulation Theory</album_title>
+                <band band_id_ref="Muse">Muse</band>
+                <studio>Warner Bros. Studios</studio>
+                <release_year>2018-11-09</release_year>
+                <number_of_songs>11</number_of_songs>
+                <total_length>00:42:12</total_length>
+                <number_of_disks>1</number_of_disks>
+                <serial_number>CD-23345-TT2</serial_number>
+                <shop_id>213P72W</shop_id>
+                <rating>8.2</rating>
+                <price>49.99</price>
+            </info>
+            <pic1 p_id="ST"/>
+            <songs>
+                <song>
+                    <title>Algorithm</title>
+                    <song_length>4:05</song_length>
+                </song>
+                <song>
+                    <title>The Dark Side</title>
+                    <song_length>3:47</song_length>
+                </song>
+                <song>
+                    <title>Pressure</title>
+                    <song_length>3:55</song_length>
+                </song>
+                <song>
+                    <title>Propaganda</title>
+                    <song_length>3:00</song_length>
+                </song>
+                <song>
+                    <title>Break It to Me</title>
+                    <song_length>3:37</song_length>
+                </song>
+                <song>
+                    <title>Something Human</title>
+                    <song_length>3:36</song_length>
+                </song>
+                <song>
+                    <title>Thought Contagion</title>
+                    <song_length>3:26</song_length>
+                </song>
+                <song>
+                    <title>Get Up and Fight</title>
+                    <song_length>4:04</song_length>
+                </song>
+                <song>
+                    <title>Blockades</title>
+                    <song_length>3:50</song_length>
+                </song>
+                <song>
+                    <title>Dig Down</title>
+                    <song_length>3:48</song_length>
+                </song>
+                <song>
+                    <title>The Void</title>
+                    <song_length>4:44</song_length>
+                </song>
+            </songs>
+        </album>
+    </albumlist>
+</albums>

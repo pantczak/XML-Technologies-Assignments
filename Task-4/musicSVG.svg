@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1920"
+     height="1500"
+     viewBox="0 0 1920 1500">
+   <g transform="translate(760 0)">
+      <a xlink:href="./musicSVG.svg#tab2" target="_self">
+         <g transform="translate(0 0)">
+            <rect x="0"
+                  y="0"
+                  width="200"
+                  height="50"
+                  fill="white"
+                  stroke="grey"/>
+            <text x="100" y="30" text-anchor="middle">Tabela podsumowania</text>
+         </g>
+      </a>
+      <a xlink:href="./musicSVG.svg#chart1" target="_self">
+         <g transform="translate(200 0)">
+            <rect x="0"
+                  y="0"
+                  width="200"
+                  height="50"
+                  fill="white"
+                  stroke="grey"/>
+            <text x="100" y="30" text-anchor="middle">Wykres gatunków</text>
+         </g>
+      </a>
+   </g>
+   <g transform="translate(450, 150)">
+      <rect x="0"
+            y="0"
+            width="500"
+            height="450"
+            fill="white"
+            stroke="black"
+            stroke-width="3.0"/>
+      <rect x="0"
+            y="0"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="50"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="100"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="150"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="200"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="250"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="300"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="350"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="400"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <line x1="250"
+            x2="500"
+            y1="50"
+            y2="50"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="100"
+            y2="100"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="150"
+            y2="150"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="200"
+            y2="200"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="250"
+            y2="250"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="300"
+            y2="300"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="350"
+            y2="350"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="400"
+            y2="400"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <a id="tab2"/>
+      <text x="10" y="30">Ilość albumów</text>
+      <text x="10" y="80">Całkowita ilość piosenek</text>
+      <text x="10" y="130">Ilość albumów rockowych</text>
+      <text x="10" y="180">Ilość albumów elektronicznych</text>
+      <text x="10" y="230">Ilość albumów muzyki house</text>
+      <text x="10" y="280">Ilość albumów popowych</text>
+      <text x="10" y="330">Ilość albumów metalowych</text>
+      <text x="10" y="380">Ilość albumów reggae</text>
+      <text x="10" y="430">Ilość albumów jazzowych</text>
+      <text x="260" y="30">21</text>
+      <text x="260" y="80">242</text>
+      <text x="260" y="130">6</text>
+      <text x="260" y="180">5</text>
+      <text x="260" y="230">2</text>
+      <text x="260" y="280">5</text>
+      <text x="260" y="330">1</text>
+      <text x="260" y="380">1</text>
+      <text x="260" y="430">1</text>
+   </g>
+   <g transform="translate(970, 150)">
+      <rect x="0"
+            y="0"
+            width="500"
+            height="450"
+            fill="white"
+            stroke="black"
+            stroke-width="3.0"/>
+      <rect x="0"
+            y="0"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="50"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="100"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="150"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="200"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="250"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="300"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="350"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <rect x="0"
+            y="400"
+            width="250"
+            height="50"
+            fill="grey"
+            stroke="black"
+            stroke-width="3.0"
+            fill-opacity="0.33"/>
+      <line x1="250"
+            x2="500"
+            y1="50"
+            y2="50"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="100"
+            y2="100"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="150"
+            y2="150"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="200"
+            y2="200"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="250"
+            y2="250"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="300"
+            y2="300"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="350"
+            y2="350"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <line x1="250"
+            x2="500"
+            y1="400"
+            y2="400"
+            style="stroke:rgb(0,0,0);stroke-width:2"/>
+      <text x="10" y="30">Ilość albumów na CD</text>
+      <text x="10" y="80">Ilość albumów na winylach</text>
+      <text x="10" y="130">Najwyższa ocena albumu w kolekcji</text>
+      <text x="10" y="180">Najniższa ocena albumu w kolekcji</text>
+      <text x="10" y="230">Podatek VAT od ceny</text>
+      <text x="10" y="280">Najwyżej oceniany album</text>
+      <text x="10" y="330">Łączna cena wszystkich albumów</text>
+      <text x="10" y="380">Data wygenerowania raportu</text>
+      <text x="10" y="430">Autorzy</text>
+      <text x="260" y="30">12</text>
+      <text x="260" y="80">9</text>
+      <text x="260" y="130">9.9</text>
+      <text x="260" y="180">6.4</text>
+      <text x="260" y="230">289zł</text>
+      <text x="260" y="280">Goodbye Yellow Brick Road</text>
+      <text x="260" y="330">1257.89zł</text>
+      <text x="260" y="380">06-12-2019</text>
+      <text x="260" y="430"> Piotr Antczak, Mikołaj Bajkowski </text>
+   </g>
+   <g transform="translate(960 700)">
+      <a id="chart1"/>
+      <rect id="chartRect"
+            x="-400"
+            y="0"
+            height="300"
+            width="800"
+            fill="rgb(230,230,230)">
+         <animate begin="mouseover"
+                  end="mouseout"
+                  attributeName="fill-opacity"
+                  values="1; 0.3; 1"
+                  dur="1"
+                  repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="30" text-anchor="middle" font-weight="900">Liczność albumów według gatunku</text>
+      <text x="-300" y="50" text-anchor="middle">Rock</text>
+      <rect x="-300"
+            y="60"
+            width="25"
+            height="150"
+            transform="translate(-12.5 0)"
+            fill="rgb(200,200,100)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="150"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="-300" y="230" text-anchor="middle">6</text>
+      <text x="-200" y="50" text-anchor="middle">Elektroniczny</text>
+      <rect x="-200"
+            y="60"
+            width="25"
+            height="125"
+            transform="translate(-12.5 0)"
+            fill="rgb(200,100,200)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="125"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="-200" y="205" text-anchor="middle">5</text>
+      <text x="-100" y="50" text-anchor="middle">House</text>
+      <rect x="-100"
+            y="60"
+            width="25"
+            height="50"
+            transform="translate(-12.5 0)"
+            fill="rgb(100,200,200)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="50"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="-100" y="130" text-anchor="middle">2</text>
+      <text x="0" y="50" text-anchor="middle">Pop</text>
+      <rect x="0"
+            y="60"
+            width="25"
+            height="125"
+            transform="translate(-12.5 0)"
+            fill="rgb(250,75,175)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="125"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="0" y="205" text-anchor="middle">5</text>
+      <text x="100" y="50" text-anchor="middle">Metal</text>
+      <rect x="100"
+            y="60"
+            width="25"
+            height="25"
+            transform="translate(-12.5 0)"
+            fill="rgb(175,250,75)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="25"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="100" y="105" text-anchor="middle">1</text>
+      <text x="200" y="50" text-anchor="middle">Reggae</text>
+      <rect x="200"
+            y="60"
+            width="25"
+            height="25"
+            transform="translate(-12.5 0)"
+            fill="rgb(175,75,250)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="25"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="200" y="105" text-anchor="middle">1</text>
+      <text x="300" y="50" text-anchor="middle">Jazz</text>
+      <rect x="300"
+            y="60"
+            width="25"
+            height="25"
+            transform="translate(-12.5 0)"
+            fill="rgb(75,250,175)"
+            fill-opacity="0.5">
+         <animate begin="mouseover"
+                  attributeName="fill-opacity"
+                  values="0.5; 1"
+                  dur="1"
+                  fill="freeze"/>
+         <animate begin="mouseout"
+                  attributeName="fill-opacity"
+                  values="1;0.5"
+                  dur="1"
+                  fill="freeze"/>
+         <animate attributeType="XML"
+                  attributeName="height"
+                  from="0"
+                  to="25"
+                  dur="2s"
+                  fill="freeze"/>
+      </rect>
+      <text x="300" y="105" text-anchor="middle">1</text>
+   </g>
+</svg>

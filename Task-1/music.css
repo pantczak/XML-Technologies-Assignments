@@ -1,0 +1,330 @@
+albums {
+	display: table;
+	font-family: Calibri;
+	font-size: 12pt;
+	background: url("./covers/wall.jpg") no-repeat fixed center;
+	background-size: cover;
+	width: 100%;
+	color: black;
+}
+authors{
+	background: rgba(255,255,255, 0.3);
+	display: inline-block;
+	left: 0;
+	padding: 10px;
+	position: static;
+}
+album {
+	display: block;
+	padding: 2%;
+	width: 50%;
+	margin: 1% auto;
+	background: rgba(255,255,255, 0.3);
+}
+
+info {
+	display: inline-block;
+	vertical-align: middle;
+	width: 40%;
+	height: 100%;
+	text-align: left;
+	margin-left: 10%;
+	margin-right: auto;
+}
+
+info > *{
+	display: table-row;
+	size: auto;
+	padding: 0px;
+	font-size: 30px;
+
+}
+info > band::after{
+	content: attr(bandinfo) ;
+}
+info>*:hover{
+	font-size: 35px;
+	color: aqua;
+	transition: 0.8s;
+	transform: translateX(-20%);
+}
+
+album_title::before{
+	content: "Tytuł albumu: ";
+}
+
+album_description::before{
+	content: "Opis albumu: ";
+}
+
+band::before{
+	content: "Nazwa grupy: ";
+}
+
+studio::before{
+	content: "Nazwa studia: ";
+}
+
+release_year::before{
+	content: "Rok wydania: ";
+}
+
+number_of_songs::before{
+	content: "Liczba utworów: ";
+}
+
+total_length::before{
+	content: "Łączna długość: ";
+}
+
+number_of_disks::before{
+	content: "Liczba nośników: ";
+}
+
+rating::before{
+	content: "Ocena krytyków: ";
+}
+
+price::before{
+	content: "Cena w PLN: ";
+}
+
+pic1{
+	position: relative;
+	display: inline-block;
+	width: 300px;
+	height: 300px;
+	margin-left: 8%;
+	background-size: cover;
+	vertical-align: middle;
+}
+
+bandlist{
+	display: none;
+}
+
+songs{
+	display: table;
+	border-collapse: collapse;
+	border: 2px solid black;
+	width: 80%;
+	height: 100%;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	background: rgba(255, 255, 255, 0.5);
+	margin-top: 1%;
+}
+
+songs > *{
+	color: black;
+}
+
+song{
+	display: table-row;
+}
+
+song > *{
+	display: table-cell;
+	border: 1px solid grey;
+	padding: 5px;
+	vertical-align: middle;
+	horiz-align: center;
+	border-bottom: 1px solid #ddd;
+	font-family: "Comic Sans MS";
+}
+
+song:hover {
+	color: red;
+	font-size: 18px;
+	transition: 0.6s;
+}
+#LR{
+	background-image: url("./covers/letsrock.jpg");
+}
+#LR:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#EC{
+	background-image: url("./covers/elcamino.jpg");
+}
+#EC:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#TB{
+	background-image: url("./covers/turnblue.jpg");
+}
+#TB:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#WR{
+	background-image: url("./covers/weezer.jpg");
+}
+#WR:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#RD{
+	background-image: url("./covers/raditude.jpg");
+}
+#RD:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#HW{
+	background-image: url("./covers/homework.jpg");
+}
+#HW:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#DC{
+	background-image: url("./covers/discovery.jpg");
+}
+#DC:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#RAM{
+	background-image: url("./covers/randomaccessmemories.jpg");
+}
+#RAM:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#SYN{
+	background-image: url("./covers/syntonia.jpg");
+}
+#SYN:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#ARM{
+	background-image: url("./covers/armanda.jpg");
+}
+#ARM:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#TRUE{
+	background-image: url("./covers/true.jpg");
+}
+#TRUE:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#STR{
+	background-image: url("./covers/stories.jpg");
+}
+#STR:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#TLR{
+	background-image: url("./covers/thriller.jpg");
+}
+#TLR:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#PL{
+	background-image: url("./covers/pastlives.jpg");
+}
+#PL:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#RM {
+	background-image: url("./covers/rumours.jpg");
+}
+#RM:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#GYBR{
+	background-image: url("./covers/goodbyeyellowbrickroad.jpg");
+}
+#GYBR:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#OTW{
+	background-image: url("./covers/offthewall.jpg");
+}
+#OTW:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#WANYK{
+	background-image: url("./covers/wearenotyourkind.jpg");
+}
+#WANYK:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#ND{
+	background-image: url("./covers/nattydread.jpg");
+}
+#ND:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#BOTC{
+	background-image: url("./covers/birthofthecool.jpg");
+}
+#BOTC:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
+#ST{
+	background-image: url("./covers/simulationtheory.jpg");
+}
+#ST:hover{
+	transition: 1s;
+	width: 350px;
+	height: 350px;
+	transform: rotate(360deg);
+}
